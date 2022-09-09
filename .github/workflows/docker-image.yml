@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: zengjie2005/TEST123
+          tags: zengjie2005/TESTzhj2022
